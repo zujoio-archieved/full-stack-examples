@@ -27,3 +27,8 @@ Advanced
 - Middleware
 - Usage with React Router
 
+Reference List:
+===
+[https://redux.js.org/](https://redux.js.org/) <br/>
+[https://github.com/markerikson/redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) <br/>
+
