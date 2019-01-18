@@ -97,6 +97,6 @@ Demo: [SideBar Rendering Sandbox](https://codesandbox.io/s/8lyrk3o9k0)
 
 Reference Links:
 ===
-[1. react-router-4-practical-tutorial](https://auth0.com/blog/react-router-4-practical-tutorial/)
-[2. react-router/web/example/basic](https://reacttraining.com/react-router/web/example/basic)
-[3. simple-react-router-v4-tutorial/](https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/)
+[1. react-router-4-practical-tutorial](https://auth0.com/blog/react-router-4-practical-tutorial/) <br/>
+[2. react-router/web/example/basic](https://reacttraining.com/react-router/web/example/basic) <br/>
+[3. simple-react-router-v4-tutorial/](https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/) <br/>
