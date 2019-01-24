@@ -272,3 +272,4 @@ Reference List:
 ===
 [1. a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model/) <br/>
 [2. what-is-git](https://www.atlassian.com/git/tutorials/what-is-git) <br/>
+[3. basic-git-commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) <br/>
